@@ -1,1 +1,2 @@
-This is a change in feature-1 and feature-2
+This is the content of the new file.
+the file is reviewed and tested
